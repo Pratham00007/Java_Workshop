@@ -1,5 +1,6 @@
 //more than 1 constructor = constructor overloading
 
+//  there is demo.java from where it call 
 class Demo2{
     Demo2(){
         System.out.println("Demo");
@@ -15,7 +16,6 @@ class Demo2{
         Demo2 d1=new Demo2();
         Demo2 d2=new Demo2(new Demo(),10);
         Demo2 d3=new Demo2(10.5F);
-        
-        
+                
     }
 }
