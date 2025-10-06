@@ -1,4 +1,4 @@
-package first 
+
 public class Demo1{
 void display(){
 System.out.prinln("in display");

@@ -8,6 +8,5 @@ class ObjectDemo1{
 
         }catch(IOException e)
             System.out.println(e);
-        }
     }
 }

@@ -1,9 +1,10 @@
 import java .util.*;
 class Parent{
 int plot=200;
-void Buisness()[
+void Buisness(){
 System.out.prinln("Profit 1 cr");
-}}
+}
+}
 
 class child extends Parent{
 void Buisness2(){

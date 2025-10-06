@@ -1,6 +1,6 @@
 class AbstractionDemo{
 public static void main(String a[]){
 int age=14;
-assert age>18 : "Age less then18 not allowed babe :)";
+assert age>18 : "Age less then18 not allowed babe :)"; //give the error 
 System.out.println("The voters age is " + age);
 }}

@@ -5,7 +5,7 @@ int i=Demo.A+Demo.B;
 System.out.println(i);
 }
 public void sub(){
-int i=Demo.A+Demo.B;
+int i=Demo.A-Demo.B;
 System.out.println(i);
 }
 
